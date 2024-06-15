@@ -1,0 +1,8 @@
+version: 0.0.1
+files:
+  - url: wow-buddy-0.0.1-setup.exe
+    sha512: dktDVC9fwSPCi9CQUrYGxkX3UVG6Z8KN34LAlrPD6KAqF8sRJeYnkLJ1vqeOyednAQwFjZOLJea+/L7gsKU3HA==
+    size: 122581908
+path: wow-buddy-0.0.1-setup.exe
+sha512: dktDVC9fwSPCi9CQUrYGxkX3UVG6Z8KN34LAlrPD6KAqF8sRJeYnkLJ1vqeOyednAQwFjZOLJea+/L7gsKU3HA==
+releaseDate: '2024-06-15T13:08:42.557Z'
